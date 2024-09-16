@@ -1,0 +1,1 @@
+**A python scritp (and a Jupyter notebook) to easily plot the desert, ridge, and savanna boundaries derived in Castro-González et al. (2024) with your favourite planets will be released on **Friday 20th of September**. 
