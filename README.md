@@ -1,1 +1,1 @@
-A python scritp (and a Jupyter notebook) to easily contextualize your planets within the boundaries of the Neptunian desert, ridge, and savanna derived in Castro-González et al. (2024) will be released on **Friday 20th of September**. 
+A python scritp (and a Jupyter notebook) to easily contextualize your favourite planets with the boundaries of the Neptunian desert, ridge, and savanna derived in Castro-González et al. (2024) will be released on **Friday 20th of September**. 
