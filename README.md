@@ -3,4 +3,4 @@ A Python script (and a Jupyter notebook) to easily contextualize your favourite 
 
 ![Spice Dune Exo-Neptunian 2-01](https://github.com/user-attachments/assets/07a139a4-ce1f-4899-84af-6c885d1ed0d5)
 
-Artistic illustration of the Neptunian ridge between the desert and savanna. © Elsa Bersier / ERC project SPICE DUNE.
+Artistic illustration of the ridge between the desert and savanna. © Elsa Bersier / ERC project SPICE DUNE.
