@@ -1,5 +1,5 @@
 ### Note
-A Python script (and a Jupyter notebook) to easily contextualize your favourite planets with the population-based boundaries of the Neptunian desert, ridge, and savanna derived in Castro-González et al. (2024) will be released on **Sunday 22 September** in this repository.
+A Python script (and a Jupyter notebook) to easily contextualize your favourite planets with the population-based boundaries of the Neptunian desert, ridge, and savanna derived in Castro-González et al. (2024) will be released on **Tuesday 24 September** in this repository.
 
 A&A publication: [https://aanda.org/10.1051/0004-6361/202450957](https://aanda.org/10.1051/0004-6361/202450957)
 
