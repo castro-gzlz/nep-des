@@ -4,4 +4,8 @@ This [Jupyter notebook](https://jupyter.org/) creates **period-radius diagrams**
 ![Spice Dune Exo-Neptunian 3-01](https://github.com/user-attachments/assets/0ab75a3f-bbb7-429c-a9fe-8d5b3f2b4ed1)
 <sup> © Elsa Bersier / ERC project SPICE DUNE </sup>
 
+## Instalation and usage
+
+
+
 
