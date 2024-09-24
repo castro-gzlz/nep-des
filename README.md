@@ -16,7 +16,9 @@ In the right panel, we contextualize a planet in the Neptunian savanna, HATS-17 
 
 ![image](https://github.com/user-attachments/assets/562dc2a4-c368-49c1-82ce-8be742526f0f)
 
-## Precautions
+## Precaution
+
+The contour map represents the **observed** density of planets in the selected catalogue, which is subjected to different observational and selection biases, and hence it does not represent the *true planet occurrence* from which the boundaries were derived. Still, there is a very good (visual) agreement between the observed distribution and the population-based boundaries so it is reasonable to plot them together. 
 
 ## Credits
 
