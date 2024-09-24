@@ -9,3 +9,10 @@ This [Jupyter notebook](https://jupyter.org/) creates **period-radius diagrams**
 
 
 
+## Output example
+
+
+
+
+
+
