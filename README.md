@@ -16,7 +16,7 @@ In the right panel, we contextualize a planet in the Neptunian savanna, HATS-17 
 
 ![image](https://github.com/user-attachments/assets/562dc2a4-c368-49c1-82ce-8be742526f0f)
 
-## Output example
+## Precautions
 
 ## Credits
 
