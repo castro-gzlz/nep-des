@@ -14,7 +14,7 @@ In the left panel, we contextualize some of the most well-known and rare planets
 
 In the right panel, we contextualize a planet in the Neptunian savanna, HATS-17 b ([Brahm et al. 2016](https://ui.adsabs.harvard.edu/abs/2016AJ....151...89B/abstract)), and highlight it with a text box. More planets can be depicted similarly. 
 
-For the left-hand plot, we used the NASA Exoplanet Archive catalogue, and for the right-hand plot, we used the Exoplanet.eu catalogue. The planetS catalogue for planets with precise mass and radii can be also used. 
+In the left-hand plot, we used the NASA Exoplanet Archive catalogue, and in the right-hand plot, we used the Exoplanet.eu catalogue. The planetS catalogue for planets with precise mass and radii can be also used. 
 
 
 ![image](https://github.com/user-attachments/assets/562dc2a4-c368-49c1-82ce-8be742526f0f)
