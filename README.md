@@ -10,7 +10,8 @@ This [Jupyter notebook](https://jupyter.org/) creates **period-radius diagrams**
 
 ## Output example
 
-![image](https://github.com/user-attachments/assets/d81deb39-e1f7-4b34-bdab-e7597620c2fb)
+![image](https://github.com/user-attachments/assets/e17de672-9dcf-431c-8a38-d302649a43ad)
+
 
 
 
