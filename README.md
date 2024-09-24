@@ -14,7 +14,7 @@ In the left panel, we contextualize some of the best-known planets located in th
 
 In the right panel, we contextualize a planet in the Neptunian savanna, HATS-17 b ([Brahm et al. 2016](https://ui.adsabs.harvard.edu/abs/2016AJ....151...89B/abstract)), and highlight it with a text box. More planets can be depicted similarly. 
 
-In the left-hand plot, we used the NASA Exoplanet Archive catalogue, and in the right-hand plot, we used the Exoplanet.eu catalogue. The planetS catalogue for planets with precise mass and radii can be also used. 
+In the left-hand plot, we used the NASA Exoplanet Archive catalogue, and in the right-hand plot, we used the Exoplanet.eu catalogue. The planetS catalogue for planets with precise masses and radii can be also used. 
 
 ![image](https://github.com/user-attachments/assets/c51efa26-17a3-41ad-946e-f4a50f0e842d)
 
