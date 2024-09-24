@@ -12,7 +12,7 @@ This [Jupyter notebook](https://jupyter.org/) creates **period-radius diagrams**
 
 In the left panel, we contextualize some of the most well-known and rare planets in the middle of the Neptunian desert: TOI-849 b ([Armstrong et al. 2020](https://ui.adsabs.harvard.edu/abs/2020Natur.583...39A/abstract)), TOI-1853 b ([Naponiello et al. 2023](https://ui.adsabs.harvard.edu/abs/2023Natur.622..255N/abstract)), LTT 9779 b ([Jenkins et al. 2020](https://ui.adsabs.harvard.edu/abs/2020NatAs...4.1148J/abstract)), TOI-3071 b ([Hacker et al. 2024](https://ui.adsabs.harvard.edu/abs/2024MNRAS.532.1612H/abstract)), TOI-674 b ([Murgas et al. 2021](https://ui.adsabs.harvard.edu/abs/2021A%26A...653A..60M/abstract)), and K2-45 b ([Crossfield et al. 2016](https://ui.adsabs.harvard.edu/abs/2016ApJS..226....7C/abstract)). For this plot, we used the NASA Exoplanet Archive catalogue. 
 
-In the right panel, we contextualize a planet in the Neptunian savanna, HATS-17 b ([Brahm et al. 2016](https://ui.adsabs.harvard.edu/abs/2016AJ....151...89B/abstract)), and highlight it with a text box. For this plot, we used the Exoplanet.eu catalogue. The planetS catalogue for planets with precise mass and radii can be also used. 
+In the right panel, we contextualize a planet in the Neptunian savanna, HATS-17 b ([Brahm et al. 2016](https://ui.adsabs.harvard.edu/abs/2016AJ....151...89B/abstract)), and highlight it with a text box. More planets can be depicted similarly. For this plot, we used the Exoplanet.eu catalogue. The planetS catalogue for planets with precise mass and radii can be also used. 
 
 ![image](https://github.com/user-attachments/assets/562dc2a4-c368-49c1-82ce-8be742526f0f)
 
