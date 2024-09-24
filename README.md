@@ -47,7 +47,7 @@ archivePrefix = {arXiv},
 }
 ```
 
-If you make use of *nep-des* to implement the exo-Neptunian boundaries in your research, please also include the following within the acknowledgements section:
+If you make use of *nep-des* to implement the exo-Neptunian boundaries in your research, please also include the following sentence within the acknowledgements section:
 
 > This research made use of \texttt{nep-des} (available in \url{https://github.com/castro-gzlz/nep-des})
 
