@@ -19,7 +19,7 @@ In the left-hand plot, we used the *NASA Exoplanet Archive* catalogue, and in th
 ![image](https://github.com/user-attachments/assets/c51efa26-17a3-41ad-946e-f4a50f0e842d)
 
 
-## Precaution
+## Caution
 
 The contour map represents the **observed** density of planets in the selected catalogue, which is subjected to different **observational** and **selection** **biases**, and hence it does not represent the *true planet occurrence* from which the boundaries were derived. Still, there is a quite good (visual) agreement between the observed distribution and the population-based boundaries, so it is reasonable to plot them together. 
 
