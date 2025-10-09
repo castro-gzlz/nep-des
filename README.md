@@ -16,7 +16,7 @@ In the right panel, we contextualize a planet in the Neptunian savanna, HATS-17 
 
 In the left-hand plot, we used the *NASA Exoplanet Archive* catalogue, and in the right-hand plot, we used the *Exoplanet.eu* catalogue. The *planetS* catalogue for planets with precise masses and radii can also be used. 
 
-![image](https://github.com/user-attachments/assets/c51efa26-17a3-41ad-946e-f4a50f0e842d)
+<img width="5712" height="2437" alt="image" src="https://github.com/user-attachments/assets/7c4f4399-5f33-4061-9d92-142b9bf0f652" />
 
 
 ## Caution
