@@ -4,7 +4,7 @@ This Jupyter Notebook creates **period-radius diagrams** with the **population-b
 ![Spice Dune Exo-Neptunian 3-01](https://github.com/user-attachments/assets/0ab75a3f-bbb7-429c-a9fe-8d5b3f2b4ed1)
 <sup> © Elsa Bersier / ERC project SPICE DUNE </sup>
 
-## Installation and usage
+## Usage
 
 No installation is needed. **Clone** or **download** the repository and run [nep_des.ipynb](https://github.com/castro-gzlz/nep-des/blob/main/nep_des.ipynb). The code is **straightforward** and **intuitive** to use, so it does not have detailed documentation. If you find any problem or would like to propose an update do not hesitate to [drop me an issue](https://github.com/castro-gzlz/nep-des/issues), make a [pull request](https://github.com/castro-gzlz/nep-des/pulls), or contact me at [amadeo.castro-gonzalez@unige.ch](amadeo.castro-gonzalez@unige.ch).
 
