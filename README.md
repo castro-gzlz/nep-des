@@ -6,7 +6,7 @@ This Jupyter Notebook creates **period-radius diagrams** with the **population-b
 
 ## Installation and usage
 
-**Clone** or **download** the repository and run all cells of the [nep_des.ipynb](https://github.com/castro-gzlz/nep-des/blob/main/nep_des.ipynb) file. The code is **straightforward** and **intuitive** to use, so it does not have detailed documentation. If you find any problem or would like to propose an update do not hesitate to [drop me an issue](https://github.com/castro-gzlz/nep-des/issues), make a [pull request](https://github.com/castro-gzlz/nep-des/pulls), or contact me at [amadeo.castro-gonzalez@unige.ch](amadeo.castro-gonzalez@unige.ch).
+**Clone** or **download** the repository and run [nep_des.ipynb](https://github.com/castro-gzlz/nep-des/blob/main/nep_des.ipynb). The code is **straightforward** and **intuitive** to use, so it does not have detailed documentation. If you find any problem or would like to propose an update do not hesitate to [drop me an issue](https://github.com/castro-gzlz/nep-des/issues), make a [pull request](https://github.com/castro-gzlz/nep-des/pulls), or contact me at [amadeo.castro-gonzalez@unige.ch](amadeo.castro-gonzalez@unige.ch).
 
 ## Output example
 
