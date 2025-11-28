@@ -14,10 +14,9 @@ In the left panel, we contextualize some of the best-known planets located in th
 
 In the right panel, we contextualize the planet HATS-17 b ([Brahm et al. 2016](https://ui.adsabs.harvard.edu/abs/2016AJ....151...89B/abstract)) within the exo-Neptunian landscape and highlight it with a text box. Additional planets can be depicted in the same way.
 
-In the left-hand plot, we used the *NASA Exoplanet Archive* catalogue, and in the right-hand plot, we used the *Exoplanet.eu* catalogue. The *planetS* catalogue for planets with precise masses and radii can also be used. 
+In the left-hand plot, we used the *NASA Exoplanet Archive* catalogue, and in the right-hand plot, we used the *Exoplanet.eu* catalogue.
 
-<img width="5712" height="2437" alt="image" src="https://github.com/user-attachments/assets/7c4f4399-5f33-4061-9d92-142b9bf0f652" />
-
+<img width="5526" height="2530" alt="example1 2" src="https://github.com/user-attachments/assets/7a449408-4195-42ce-bad2-8a504c9d8a8f" />
 
 ## Caution
 
