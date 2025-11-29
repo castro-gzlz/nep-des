@@ -4,7 +4,7 @@ This code generates **period–radius diagrams** with the **population-based bou
 ![Spice Dune Exo-Neptunian 3-01](https://github.com/user-attachments/assets/0ab75a3f-bbb7-429c-a9fe-8d5b3f2b4ed1)
 <sup> © Elsa Bersier / ERC project SPICE DUNE </sup>
 
-## Usage
+## Installation & Usage
 
 No installation is required. Simply **clone** or **download** this repository and run [`nep_des.ipynb`](https://github.com/castro-gzlz/nep-des/blob/main/nep_des.ipynb). The code is designed to be **straightforward** and **intuitive** to use – just choose your preferred configuration. If you encounter any issues or would like to suggest improvements, please [open an issue](https://github.com/castro-gzlz/nep-des/issues), submit a [pull request](https://github.com/castro-gzlz/nep-des/pulls), or contact me.
 
