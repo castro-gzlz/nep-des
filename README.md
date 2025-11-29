@@ -16,7 +16,7 @@ In the right panel, we contextualize the planet HATS-17 b ([Brahm et al. 2016](h
 
 In the left-hand plot, we used the *NASA Exoplanet Archive* catalogue, and in the right-hand plot, we used the *Exoplanet.eu* catalogue.
 
-<img width="5526" height="2530" alt="example1 2" src="https://github.com/user-attachments/assets/7a449408-4195-42ce-bad2-8a504c9d8a8f" />
+<img width="5526" height="2530" alt="examples1 2" src="https://github.com/user-attachments/assets/674eccc2-88af-418d-9029-d1e25900b4ba" />
 
 ## Caution
 
