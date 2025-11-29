@@ -16,7 +16,7 @@ In the right panel, we contextualize the planet TOI-257 b ([Addison et al. 2021]
 
 In the left-hand plot, we used the *NASA Exoplanet Archive* catalogue, and in the right-hand plot, we used the *Exoplanet.eu* catalogue.
 
-<img width="5526" height="2530" alt="examples1 2" src="https://github.com/user-attachments/assets/674eccc2-88af-418d-9029-d1e25900b4ba" />
+<img width="5526" height="2530" alt="examples1 2" src="https://github.com/user-attachments/assets/6f1d3faf-e778-4244-a55c-be510542dd56" />
 
 ## Caution
 
