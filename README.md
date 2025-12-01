@@ -6,7 +6,7 @@ This code generates **period–radius diagrams** with the **population-based bou
 
 ## Installation and Usage
 
-No installation is required. Simply **clone** or **download** this repository and run [`nep_des.ipynb`](https://github.com/castro-gzlz/nep-des/blob/main/nep_des.ipynb). The code is designed to be **straightforward** and **intuitive** to use. You just need to adapt the [User configuration](nep_des.ipynb#user-configuration) section, run the (collapsed) cells of [Main code block](nep_des.ipynb#main-code-block), and then run any of the . See the [three plotting cells](nep_des.ipynb#1-the-exo-neptunian-landscape-desert-ridge-and-savanna). If you encounter any issues or would like to suggest improvements, please [open an issue](https://github.com/castro-gzlz/nep-des/issues), submit a [pull request](https://github.com/castro-gzlz/nep-des/pulls), or contact me.
+No installation is required. Simply **clone** or **download** this repository and run [`nep_des.ipynb`](https://github.com/castro-gzlz/nep-des/blob/main/nep_des.ipynb). The code is designed to be **straightforward** and **intuitive** to use. You just need to adapt the [User configuration](nep_des.ipynb#user-configuration) section, run the (collapsed) cells of [Main code block](nep_des.ipynb#main-code-block), and then run any of the [three plotting cells](nep_des.ipynb#1-the-exo-neptunian-landscape-desert-ridge-and-savanna). If you encounter any issues or would like to suggest improvements, please [open an issue](https://github.com/castro-gzlz/nep-des/issues), submit a [pull request](https://github.com/castro-gzlz/nep-des/pulls), or contact me.
 
 ## Output example. Approximate desert boundaries
 
