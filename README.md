@@ -26,6 +26,10 @@ This plotting option also uses an MCMC approach to assess the significance of th
 
 We obtain a KS p-value of 0.0065 for the (DESERT + RIDGE) vs. SAVANNA comparison, which is slightly lower than the originally published value (KS p-value = 0.0092; [Castro-González et al. 2024b](https://ui.adsabs.harvard.edu/abs/2024A%26A...691A.233C/abstract)). This significant result shows that **the density distributions of the desert+ridge and savanna are different**. Remarkably, **there is no evidence of a density difference between the desert and ridge planets** (p-value = 0.27), which is somewhat expected given the very small desert sample (N_desert = 6). Still, the Cliff's delta remains high (0.38), which suggests a potentially meaningful effect that current sample sizes are not sufficient to confirm. In this line, we note that relatively low-density super-Neptunes exist in the ridge but not in the desert—an intriguing feature consistent with the proposed **density brink** ([Bourrier et al. 2025](https://ui.adsabs.harvard.edu/abs/2025A%26A...701A.190B/abstract)).
 
+## 3. The Neptunian desert
+
+<img width="5526" height="2530" alt="examples4 5" src="https://github.com/user-attachments/assets/ae8c778d-7d0c-4d86-a898-302bcca17be3" />
+
 ## Note on the landscape plots
 
 The contour map represents the **observed** density of planets in the selected catalogue, which is subjected to different **observational** and **selection** **biases**, and hence it **does not represent** the *true planet occurrence* from which the boundaries were derived. We note, however, that there is a quite good (visual) agreement between the observed distribution and the population-based boundaries so it is reasonable to plot them together for visualization purposes. 
