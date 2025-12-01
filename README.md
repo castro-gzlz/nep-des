@@ -10,11 +10,7 @@ No installation is required. Simply **clone** or **download** this repository an
 
 ## 1. The exo-Neptunian landscape (desert, ridge, and savanna)
 
-In the left panel, we contextualize several planets located in the core of the Neptunian desert: TOI-849 b ([Armstrong et al. 2020](https://ui.adsabs.harvard.edu/abs/2020Natur.583...39A/abstract)), TOI-1853 b ([Naponiello et al. 2023](https://ui.adsabs.harvard.edu/abs/2023Natur.622..255N/abstract)), LTT 9779 b ([Jenkins et al. 2020](https://ui.adsabs.harvard.edu/abs/2020NatAs...4.1148J/abstract)), TOI-3071 b ([Hacker et al. 2024](https://ui.adsabs.harvard.edu/abs/2024MNRAS.532.1612H/abstract)), TOI-674 b ([Murgas et al. 2021](https://ui.adsabs.harvard.edu/abs/2021A%26A...653A..60M/abstract)), and K2-45 b ([Crossfield et al. 2016](https://ui.adsabs.harvard.edu/abs/2016ApJS..226....7C/abstract)).
-
-In the right panel, we contextualize the planet TOI-257 b ([Addison et al. 2021](https://ui.adsabs.harvard.edu/abs/2021MNRAS.502.3704A/abstract)) within the exo-Neptunian landscape and highlight it with a text box. Additional planets can be depicted in the same way.
-
-In the left-hand plot, we used the *NASA Exoplanet Archive* catalogue, and in the right-hand plot, we used the *Exoplanet.eu* catalogue.
+In the left panel, we contextualize several planets located within the core of the Neptunian desert: TOI-849 b ([Armstrong et al. 2020](https://ui.adsabs.harvard.edu/abs/2020Natur.583...39A/abstract)), TOI-1853 b ([Naponiello et al. 2023](https://ui.adsabs.harvard.edu/abs/2023Natur.622..255N/abstract)), LTT 9779 b ([Jenkins et al. 2020](https://ui.adsabs.harvard.edu/abs/2020NatAs...4.1148J/abstract)), TOI-3071 b ([Hacker et al. 2024](https://ui.adsabs.harvard.edu/abs/2024MNRAS.532.1612H/abstract)), TOI-674 b ([Murgas et al. 2021](https://ui.adsabs.harvard.edu/abs/2021A%26A...653A..60M/abstract)), and K2-45 b ([Crossfield et al. 2016](https://ui.adsabs.harvard.edu/abs/2016ApJS..226....7C/abstract)). In the right panel, we place TOI-257 b ([Addison et al. 2021](https://ui.adsabs.harvard.edu/abs/2021MNRAS.502.3704A/abstract)) within the broader exo-Neptunian landscape (desert, ridge, and savanna) and highlight it with a text box.
 
 <img width="5526" height="2530" alt="examples1 2" src="https://github.com/user-attachments/assets/6f1d3faf-e778-4244-a55c-be510542dd56" />
 
