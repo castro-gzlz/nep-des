@@ -24,7 +24,7 @@ This plotting option also uses an MCMC approach to assess the significance of th
 
 <img width="1043" height="491" alt="Captura de pantalla 2025-12-01 a las 18 57 21" src="https://github.com/user-attachments/assets/b2e7c710-e63f-4af8-8d24-46a9c7b2793e" />
 
-We obtain a KS p-value for the (DESERT + RIDGE) vs SAVANNA compariso of 0.0065, which is slighty lower than the originally published (p-value = 0.0092; [Castro-González et al. 2024b](https://ui.adsabs.harvard.edu/abs/2024A%26A...691A.233C/abstract). 
+We obtain a KS p-value of 0.0065 for the (DESERT + RIDGE) vs. SAVANNA comparison, which is slightly lower than the originally published value (p-value = 0.0092; [Castro-González et al. 2024b](https://ui.adsabs.harvard.edu/abs/2024A%26A...691A.233C/abstract)).
 
 
 ## Caution
