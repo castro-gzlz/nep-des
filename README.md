@@ -16,6 +16,8 @@ In the left panel ([example #1](aux/config_examples.ipynb)), we contextualize se
 
 ## 2. The super-Neptune / sub-Jovian density trend
 
+In this two-panel plot ([example #1](aux/config_examples.ipynb)), we contextualize several planets along the **density trend for super-Neptune and sub-Jovian planets** identified in [Castro-González et al. (2024b)](https://ui.adsabs.harvard.edu/abs/2024A%26A...691A.233C/abstract). Planets in the savanna exhibit low densities, typically below 1 g/cm^3, whereas those in the ridge and desert can reach densities of 2 g/cm^3 or higher.
+
 <img width="5584" height="2530" alt="nep_dens_example3" src="https://github.com/user-attachments/assets/3dbc882f-c856-40d1-a0b2-9af733e6fb78" />
 
 ## Caution
