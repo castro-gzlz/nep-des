@@ -6,7 +6,7 @@ This code generates **period–radius diagrams** with the **population-based bou
 
 ## Installation and Usage
 
-No installation is required. Simply **clone** or **download** this repository and run [`nep_des.ipynb`](https://github.com/castro-gzlz/nep-des/blob/main/nep_des.ipynb). The code is designed to be **straightforward** and **intuitive** to use – just choose your preferred configuration. If you encounter any issues or would like to suggest improvements, please [open an issue](https://github.com/castro-gzlz/nep-des/issues), submit a [pull request](https://github.com/castro-gzlz/nep-des/pulls), or contact me.
+No installation is required. Simply **clone** or **download** this repository and run [`nep_des.ipynb`](https://github.com/castro-gzlz/nep-des/blob/main/nep_des.ipynb). The code is designed to be **straightforward** and **intuitive** to use. If you encounter any issues or would like to suggest improvements, please [open an issue](https://github.com/castro-gzlz/nep-des/issues), submit a [pull request](https://github.com/castro-gzlz/nep-des/pulls), or contact me.
 
 ## Output example. Approximate desert boundaries
 
