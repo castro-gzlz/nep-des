@@ -20,7 +20,7 @@ In this two-panel plot ([example #3](aux/config_examples.ipynb)), we contextuali
 
 <img width="5584" height="2530" alt="nep_dens_example3" src="https://github.com/user-attachments/assets/3dbc882f-c856-40d1-a0b2-9af733e6fb78" />
 
-This plotting option also uses an MCMC approach to asses the significance of the trend. Today, and withough considering the (duplicated) plotted planet (include_user_planets_in_density_stats = False):
+This plotting option also uses an MCMC approach to asses the significance of the trend. Today, and withough considering the (duplicated) plotted planet (`include_user_planets_in_density_stats = False`):
 
 
 
