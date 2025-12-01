@@ -22,7 +22,8 @@ In this two-panel plot ([example #3](aux/config_examples.ipynb)), we contextuali
 
 This plotting option also uses an MCMC approach to assess the significance of the trend. At present, without including the (duplicated) user-plotted planets (`include_user_planets_in_density_stats = False`):
 
-<img width="847" height="205" alt="Captura de pantalla 2025-12-01 a las 21 35 32" src="https://github.com/user-attachments/assets/27293c38-fb07-49c5-9846-7b97559df25f" />
+<img width="992" height="195" alt="Captura de pantalla 2025-12-01 a las 21 36 35" src="https://github.com/user-attachments/assets/857fb9ae-6ff8-454d-8ef5-796168afa3d5" />
+
 
 We obtain a KS p-value of 0.0065 for the (DESERT + RIDGE) vs. SAVANNA comparison, which is slightly lower than the originally published value (KS p-value = 0.0092; [Castro-González et al. 2024b](https://ui.adsabs.harvard.edu/abs/2024A%26A...691A.233C/abstract)). This significant result shows that **the density distributions of the desert+ridge and savanna are different**. Remarkably, **there is no evidence of a density difference between the desert and ridge planets** (p-value = 0.27), which is somewhat expected given the very small desert sample (N_desert = 6). Still, the Cliff's delta remains high (0.38), which suggests a potentially meaningful effect that current sample sizes are not sufficient to confirm. In this line, we note that relatively low-density super-Neptunes exist in the ridge but not in the desert—an intriguing feature consistent with the proposed **density brink** ([Bourrier et al. 2025](https://ui.adsabs.harvard.edu/abs/2025A%26A...701A.190B/abstract)).
 
