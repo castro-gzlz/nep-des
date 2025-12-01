@@ -14,6 +14,8 @@ In the left panel ([example #1](aux/config_examples.ipynb)), we contextualize se
 
 <img width="5526" height="2530" alt="examples1 2" src="https://github.com/user-attachments/assets/6f1d3faf-e778-4244-a55c-be510542dd56" />
 
+## 2. The super-Neptune / sub-Jovian density trend
+
 ## Caution
 
 The contour map represents the **observed** density of planets in the selected catalogue, which is subjected to different **observational** and **selection** **biases**, and hence it **does not represent** the *true planet occurrence* from which the boundaries were derived. We note, however, that there is a quite good (visual) agreement between the observed distribution and the population-based boundaries so it is reasonable to plot them together for visualization purposes. 
