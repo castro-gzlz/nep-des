@@ -20,6 +20,10 @@ In this two-panel plot ([example #3](aux/config_examples.ipynb)), we contextuali
 
 <img width="5584" height="2530" alt="nep_dens_example3" src="https://github.com/user-attachments/assets/3dbc882f-c856-40d1-a0b2-9af733e6fb78" />
 
+This option also uses an MCMC to asses the significance of the trend 
+
+
+
 ## Caution
 
 The contour map represents the **observed** density of planets in the selected catalogue, which is subjected to different **observational** and **selection** **biases**, and hence it **does not represent** the *true planet occurrence* from which the boundaries were derived. We note, however, that there is a quite good (visual) agreement between the observed distribution and the population-based boundaries so it is reasonable to plot them together for visualization purposes. 
