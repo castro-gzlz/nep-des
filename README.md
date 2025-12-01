@@ -22,6 +22,8 @@ In this two-panel plot ([example #3](aux/config_examples.ipynb)), we contextuali
 
 This plotting option also uses an MCMC approach to assess the significance of the trend. At present, without including the (duplicated) user-plotted planets (`include_user_planets_in_density_stats = False`):
 
+<img width="568" height="503" alt="Captura de pantalla 2025-12-01 a las 18 55 55" src="https://github.com/user-attachments/assets/64db8ea8-99b8-4b50-97f3-1fc2e4b82077" />
+
 
 
 ## Caution
