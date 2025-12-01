@@ -36,10 +36,6 @@ Finally, we can generate the **exact KDE-derived desert boundaries** from [Castr
 In the left panel ([example #4](aux/config_examples.ipynb)), we illustrate how to contextualize a single planet. In the right panel ([example #5](aux/config_examples.ipynb)), we show how to contextualize multiple planets with legend labels and how to display features such as the ridge and the savanna. We also demonstrate how to draw the classical desert boundaries of [Mazeh et al. (2016)](https://ui.adsabs.harvard.edu/abs/2016A%26A...589A..75M/abstract) using the option `show_mazeh_boundaries = True`, which can be activated for any of the *nep-des* plot types.
 
 
-## Note on the landscape plots
-
-The contour map represents the **observed** density of planets in the selected catalogue, which is subjected to different **observational** and **selection** **biases**, and hence it **does not represent** the *true planet occurrence* from which the boundaries were derived. We note, however, that there is a quite good (visual) agreement between the observed distribution and the population-based boundaries so it is reasonable to plot them together for visualization purposes. 
-
 ## Credits
 
 If you use our population-based mapping of the exo-Neptunian landscape, please give credit to [this work](https://ui.adsabs.harvard.edu/abs/2024A%26A...689A.250C/abstract):
