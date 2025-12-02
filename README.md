@@ -1,7 +1,7 @@
 # **nep-des**
 This code generates **period–radius diagrams** with the **population-based boundaries** of the **Neptunian desert**, **ridge**, and **savanna**, as derived in [Castro-González et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...689A.250C/abstract). It also generates two-column plots with the **density trend** for super-Neptune and sub-Jovian planets identified in [Castro-González et al. (2024b)](https://ui.adsabs.harvard.edu/abs/2024A%26A...691A.233C/abstract).
 
-<img width="900" height="600" alt="rescaled_cropped_exoneptunian" src="https://github.com/user-attachments/assets/e499f2cf-c825-40af-a2cb-4721c6ed1c5e" />
+<img width="1024" height="1024" alt="logo_nep_des" src="https://github.com/user-attachments/assets/9de14747-02ca-410b-a562-389befb04b4b" />
 
 <sup> © Elsa Bersier / ERC project SPICE DUNE </sup>
 
