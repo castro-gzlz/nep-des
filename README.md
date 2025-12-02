@@ -4,7 +4,8 @@
 
 <!-- LOGO GRANDE -->
 <td width="420" align="center" style="border: none; padding: 0;">
-  <img src="logo_nepdes.png" width="380">
+  <img width="1024" height="1024" alt="logo_nepdes" src="https://github.com/user-attachments/assets/6ce0f20c-2629-499d-8bbc-e9f91525bd2b" />
+
 </td>
 
 <!-- TEXTO -->
