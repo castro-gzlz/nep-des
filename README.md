@@ -14,7 +14,11 @@
   It also generates two-column plots with the <strong>density trend</strong> for 
   super-Neptune and sub-Jovian planets identified in 
   <a href="https://ui.adsabs.harvard.edu/abs/2024A%26A...691A.233C/abstract">
-  Castro-González et al. (2024b)</a>.                                                                                             
+  Castro-González et al. (2024b)</a>.                                                         
+
+
+
+  
 </p>
 
 ## Installation and Usage
