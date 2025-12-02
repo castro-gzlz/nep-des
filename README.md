@@ -3,7 +3,6 @@ This code generates **period–radius diagrams** with the **population-based bou
 
 <img width="2252" height="1024" alt="logo_for_readme" src="https://github.com/user-attachments/assets/131668b0-05ee-40c4-9f04-e97ce738c8d6" />
 
-<sup> © Elsa Bersier / ERC project SPICE DUNE </sup>
 
 ## Installation and Usage
 
