@@ -2,9 +2,10 @@
 
 <table>
 <tr>
+<img width="1024" height="1024" alt="logo_nepdes" src="https://github.com/user-attachments/assets/c144487d-4e91-4944-9265-5b3f2522971e" />
 
 <td width="260" align="center">
-  <img src="https://github.com/user-attachments/assets/a22d50f7-ec8d-4afa-bd14-26b83c58dd8b" width="230">
+  
 </td>
 
 <td>
