@@ -1,15 +1,14 @@
 # **nep-des**
-
 <table style="border: none; border-collapse: collapse;">
 <tr style="border: none;">
 
-<!-- LOGO -->
-<td width="320" align="center" style="border: none; padding: 0;">
-  <img src="logo_nepdes.png" width="300">
+<!-- LOGO GRANDE -->
+<td width="420" align="center" style="border: none; padding: 0;">
+  <img src="logo_nepdes.png" width="380">
 </td>
 
 <!-- TEXTO -->
-<td style="border: none; padding-left: 20px;">
+<td style="border: none; padding-left: 25px;">
 
 This code generates <strong>period–radius diagrams</strong> with the 
 <strong>population-based boundaries</strong> of the <strong>Neptunian desert</strong>, 
