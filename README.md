@@ -4,7 +4,7 @@
 
   <img src="https://github.com/user-attachments/assets/fe4eb136-5c18-419e-ba42-fcbb2d085586"
        align="left"
-       width="300"
+       width="280"
        style="margin-right: 20px; margin-bottom: 10px;">
   This code generates <strong>period–radius diagrams</strong> with the 
   <strong>population-based boundaries</strong> of the <strong>Neptunian desert</strong>, 
