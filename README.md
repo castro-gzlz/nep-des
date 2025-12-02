@@ -2,13 +2,21 @@
 
 <table>
 <tr>
-<img width="1024" height="1024" alt="logo_nepdes" src="https://github.com/user-attachments/assets/c144487d-4e91-4944-9265-5b3f2522971e" />
 
 <td width="260" align="center">
-  
+  <img width="1024" height="1024" alt="logo_nepdes" src="https://github.com/user-attachments/assets/a6be9be0-a80c-4912-8dca-117ef4fbaf7d" />
+
 </td>
 
 <td>
+
+This code generates <strong>period–radius diagrams</strong> with the <strong>population-based boundaries</strong> of the <strong>Neptunian desert</strong>, <strong>ridge</strong>, and <strong>savanna</strong>, as derived in <a href="https://ui.adsabs.harvard.edu/abs/2024A%26A...689A.250C/abstract">Castro-González et al. (2024)</a>.  
+It also generates two-column plots with the <strong>density trend</strong> for super-Neptune and sub-Jovian planets identified in <a href="https://ui.adsabs.harvard.edu/abs/2024A%26A...691A.233C/abstract">Castro-González et al. (2024b)</a>.
+
+</td>
+
+</tr>
+</table>
 
 This code generates <strong>period–radius diagrams</strong> with the <strong>population-based boundaries</strong> of the <strong>Neptunian desert</strong>, <strong>ridge</strong>, and <strong>savanna</strong>, as derived in <a href="https://ui.adsabs.harvard.edu/abs/2024A%26A...689A.250C/abstract">Castro-González et al. (2024)</a>. It also generates two-column plots with the <strong>density trend</strong> for super-Neptune and sub-Jovian planets identified in <a href="https://ui.adsabs.harvard.edu/abs/2024A%26A...691A.233C/abstract">Castro-González et al. (2024b)</a>.
 
