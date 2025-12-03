@@ -2,7 +2,7 @@
 
 <p>
 
-  <img src="https://github.com/user-attachments/assets/fe4eb136-5c18-419e-ba42-fcbb2d085586"
+  <img src="https://github.com/user-attachments/assets/795fe8a0-7e58-4298-b6ee-09089c0728d6"
        align="left"
        width="320"
        style="margin-right: 50px; margin-bottom: 10px;">
@@ -22,11 +22,13 @@
 </p>
 
 
+<img width="1024" height="1024" alt="nepdes_logo" src="https://github.com/user-attachments/assets/795fe8a0-7e58-4298-b6ee-09089c0728d6" />
+
+
+
 ## 1. The exo-Neptunian landscape (desert, ridge, and savanna)
 
 In the left panel ([example #1](aux/config_examples.ipynb)), we contextualize several unusually short-period planets located within the core of the Neptunian desert. In the right panel ([example #2](aux/config_examples.ipynb)), we place a sub-Saturn within the broader exo-Neptunian landscape (desert, ridge, and savanna) and highlight it with a text box.
-
-<img width="5526" height="2530" alt="examples1 2" src="https://github.com/user-attachments/assets/7aec004b-cd06-413e-a03c-188264e5df92" />
 
 
 ## 2. The super-Neptune / sub-Jovian density trend
