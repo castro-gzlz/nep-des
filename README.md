@@ -22,9 +22,6 @@
 </p>
 
 
-<img width="1024" height="1024" alt="nepdes_logo" src="https://github.com/user-attachments/assets/795fe8a0-7e58-4298-b6ee-09089c0728d6" />
-
-
 
 ## 1. The exo-Neptunian landscape (desert, ridge, and savanna)
 
