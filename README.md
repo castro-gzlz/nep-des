@@ -13,7 +13,7 @@
   <a href="https://ui.adsabs.harvard.edu/abs/2024A%26A...691A.233C/abstract">
   Castro-González et al. (2024b)</a>. 
   
-  **No installation is required.** Simply **download** this repository and run [`nep_des.ipynb`](https://github.com/castro-gzlz/nep-des/blob/main/nep_des.ipynb). You can adapt the [User configuration](nep_des.ipynb#user-configuration) section, run the (collapsed) cells in the **main code block**, and execute any of the **plotting cells**. In the following, we show examples covering the **three types of plots** that can be generated. The configuration cells for each example can be found [here](aux/config_examples.ipynb). For any issues/suggestions, please feel free to [contact me](mailto:amadeo.castro-gonzalez@unige.ch).
+  **No installation is required.** Simply **download** this repository and run [`nep_des.ipynb`](https://github.com/castro-gzlz/nep-des/blob/main/nep_des.ipynb). You can adapt the [User configuration](nep_des.ipynb#user-configuration) section, run the (collapsed) cells in the **main code block**, and execute any of the **plotting cells**. In the following, we show examples covering the **three types of plots** that can be generated. The configuration cells for each example can be found [here](aux/config_examples.ipynb). For issues/suggestions, please feel free to [contact me](mailto:amadeo.castro-gonzalez@unige.ch).
                                                       
 </p>
 
