@@ -6,7 +6,7 @@
        align="left"
        width="320"
        style="margin-right: 50px; margin-bottom: 10px;">
-  This code produces <strong>period–radius diagrams</strong> with the <strong>population-based</strong> boundaries</strong> of the <strong>exo-Neptunian landscape</strong> (i.e. the <strong>desert</strong>, 
+  This code produces <strong>period–radius diagrams</strong> with the <strong>population-based</strong> boundaries</strong> of the <strong>exo-Neptunian landscape</strong> (the <strong>desert</strong>, 
   <strong>ridge</strong>, <strong>and savanna</strong>), as derived in 
   <a href="https://ui.adsabs.harvard.edu/abs/2024A%26A...689A.250C/abstract">
   Castro-González et al. (2024)</a>. It also generates plots showing the <strong>density–period trend</strong> for 
