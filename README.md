@@ -12,7 +12,7 @@
   <a href="https://ui.adsabs.harvard.edu/abs/2024A%26A...689A.250C/abstract">
   Castro-González et al. (2024)</a>. 
   It also generates two-column plots with the <strong>density trend</strong> for 
-  super-Neptunes and sub-Saturns identified in 
+  <strong>super-Neptunes and sub-Saturns</strong> identified in 
   <a href="https://ui.adsabs.harvard.edu/abs/2024A%26A...691A.233C/abstract">
   Castro-González et al. (2024b)</a>. 
   
