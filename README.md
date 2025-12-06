@@ -20,7 +20,7 @@
 </p>
 
 
-## 1. The exo-Neptunian landscape (desert, ridge, and savanna)
+## 1. The exo-Neptunian landscape: desert, ridge, and savanna
 
 In the left panel ([example #1](aux/config_examples.ipynb)), we contextualize several unusually short-period planets located within the core of the Neptunian desert. In the right panel ([example #2](aux/config_examples.ipynb)), we place a sub-Saturn within the broader exo-Neptunian landscape (desert, ridge, and savanna) and highlight it with a text box.
 
