@@ -27,7 +27,7 @@ In the left panel ([example #1](aux/config_examples.ipynb)), we contextualize se
 
 <img width="5526" height="2530" alt="examples1 2" src="https://github.com/user-attachments/assets/5da65e99-71a6-495d-b9d2-2d56fe9a5874" />
 
-## 2. The super-Neptune / sub-Jovian density trend
+## 2. The super-Neptune / sub-Saturn density trend
 
 In this two-panel plot ([example #3](aux/config_examples.ipynb)), we contextualize several planets along the **density trend for super-Neptune and sub-Jovian planets** identified in [Castro-González et al. (2024b)](https://ui.adsabs.harvard.edu/abs/2024A%26A...691A.233C/abstract). Planets in the savanna exhibit low densities, typically below 1 g/cm³, whereas those in the ridge & desert can reach densities of 2 g/cm³ or higher. Remarkably, the density transition aligns closely with the observed planet-occurrence break between the ridge and savanna (at roughly ~6 days), suggesting that **desert and ridge planets may share common formation and/or evolutionary pathways distinct from that of Neptunes in the savanna** (see the papers for further discussion).
 
