@@ -10,7 +10,7 @@
   <strong>ridge</strong>, <strong>and savanna</strong>), as derived in 
   <a href="https://ui.adsabs.harvard.edu/abs/2024A%26A...689A.250C/abstract">
   Castro-González et al. (2024)</a>. It also generates plots showing the <strong>density–period trend</strong> for 
-  super-Neptunes/sub-Saturns identified in the follow-up work
+  super-Neptunes/sub-Saturns identified in
   <a href="https://ui.adsabs.harvard.edu/abs/2024A%26A...691A.233C/abstract">
   Castro-González et al. (2024b)</a>. 
   
