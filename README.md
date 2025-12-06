@@ -6,7 +6,7 @@
        align="left"
        width="320"
        style="margin-right: 50px; margin-bottom: 10px;">
-  This code generates <strong>period–radius diagrams</strong> showing the 
+  This code generates <strong>period–radius diagrams</strong> with the 
   <strong>population-based boundaries</strong> of the <strong>Neptunian desert</strong>, 
   <strong>ridge</strong>, and <strong>savanna</strong>, as derived in 
   <a href="https://ui.adsabs.harvard.edu/abs/2024A%26A...689A.250C/abstract">
