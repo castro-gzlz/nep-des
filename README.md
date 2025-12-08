@@ -47,7 +47,7 @@ Finally, we can generate the **exact KDE-derived desert boundaries** from [Castr
 
 
 
-In the left panel ([example #4](aux/config_examples.ipynb)), we illustrate how to contextualize a single planet. In the right panel ([example #5](aux/config_examples.ipynb)), we show how to contextualize multiple planets with legend labels. We also demonstrate how to draw the classical desert boundaries of [Mazeh et al. (2016)](https://ui.adsabs.harvard.edu/abs/2016A%26A...589A..75M/abstract) using the option `show_mazeh_boundaries = True`, which can be activated for any of the *nep-des* plot types.
+In the left panel ([example #4](aux/config_examples.ipynb)), we illustrate how to contextualize a desert planet. In the right panel ([example #5](aux/config_examples.ipynb)), we show how to contextualize multiple desert planets with legend labels. We also demonstrate how to draw the classical desert boundaries of [Mazeh et al. (2016)](https://ui.adsabs.harvard.edu/abs/2016A%26A...589A..75M/abstract) using the option `show_mazeh_boundaries = True`, which can be activated for any of the *nep-des* plot types.
 
 
 ## Credits
