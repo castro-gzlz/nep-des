@@ -55,6 +55,7 @@ In the left panel ([example #4](aux/config_examples.ipynb)), we illustrate how t
 If you use our population-based mapping of the exo-Neptunian landscape, please give credit to [this work](https://ui.adsabs.harvard.edu/abs/2024A%26A...689A.250C/abstract):
 
 ```
+bibtex
 @ARTICLE{2024A&A...689A.250C,
        author = {{Castro-Gonz{\'a}lez}, A. and {Bourrier}, V. and {Lillo-Box}, J. and {Delisle}, J. -B. and {Armstrong}, D.~J. and {Barrado}, D. and {Correia}, A.~C.~M.},
         title = "{Mapping the exo-Neptunian landscape: A ridge between the desert and savanna}",
