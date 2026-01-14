@@ -74,6 +74,28 @@ archivePrefix = {arXiv},
 }
 ```
 
+If you also use the super-Neptune / sub-Saturn density trend, please give credit to [this work](https://ui.adsabs.harvard.edu/abs/2024A%26A...691A.233C/abstract):
+
+```bibtex
+@ARTICLE{2024A&A...691A.233C,
+       author = {{Castro-Gonz{\'a}lez}, A. and {Lillo-Box}, J. and {Armstrong}, D.~J. and {Acu{\~n}a}, L. and {Aguichine}, A. and {Bourrier}, V. and {Gandhi}, S. and {Sousa}, S.~G. and {Delgado-Mena}, E. and {Moya}, A. and {Adibekyan}, V. and {Correia}, A.~C.~M. and {Barrado}, D. and {Damasso}, M. and {Winn}, J.~N. and {Santos}, N.~C. and {Barkaoui}, K. and {Barros}, S.~C.~C. and {Benkhaldoun}, Z. and {Bouchy}, F. and {Brice{\~n}o}, C. and {Caldwell}, D.~A. and {Collins}, K.~A. and {Essack}, Z. and {Ghachoui}, M. and {Gillon}, M. and {Hounsell}, R. and {Jehin}, E. and {Jenkins}, J.~M. and {Keniger}, M.~A.~F. and {Law}, N. and {Mann}, A.~W. and {Nielsen}, L.~D. and {Pozuelos}, F.~J. and {Schanche}, N. and {Seager}, S. and {Tan}, T.-G. and {Timmermans}, M. and {Villase{\~n}or}, J. and {Watkins}, C.~N. and {Ziegler}, C.},
+        title = "{TOI-5005 b: A super-Neptune in the savanna near the ridge}",
+      journal = {\aap},
+     keywords = {techniques: photometric, techniques: radial velocities, planets and satellites: composition, planets and satellites: detection, planets and satellites: individual: TOI-5005 b, stars: individual: TOI 5005 (TIC 282485660), Earth and Planetary Astrophysics},
+         year = 2024,
+        month = nov,
+       volume = {691},
+          eid = {A233},
+        pages = {A233},
+          doi = {10.1051/0004-6361/202451656},
+archivePrefix = {arXiv},
+       eprint = {2409.18129},
+ primaryClass = {astro-ph.EP},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2024A&A...691A.233C},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+```
+
 If you make use of `nep_des` to implement the exo-Neptunian boundaries in your research, please also copy-paste the following sentence within the acknowledgements section:
 
 > This research made use of \texttt{nep-des} (available in \url{https://github.com/castro-gzlz/nep-des})
