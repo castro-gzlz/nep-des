@@ -40,7 +40,7 @@ We obtain a KS p-value of 0.0065 for the (DESERT + RIDGE) vs. SAVANNA comparison
 
 ## 3. The Neptunian desert
 
-Finally, we can generate the **exact KDE-derived desert boundaries** from [Castro-González et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...689A.250C/abstract). These boundaries are broadly consistent with the approximate ones shown in the previous examples. However, they are especially valuable for contextualizing sub-Neptunes located near the **opening of the radius valley**, a region that is less well captured by straight-line approximations. For this plot format, the background is drawn from the **Kepler DR25 catalogue** ([Thompson et al. 2018](https://ui.adsabs.harvard.edu/abs/2018ApJS..235...38T/abstract)), to which the **Inverse Detection Efficiency Method (IDEM)** was applied to derive the corresponding bias-corrected boundaries.
+Finally, we can generate the **exact KDE-derived desert boundaries** from [Castro-González et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...689A.250C/abstract). These boundaries are broadly consistent with the approximate ones shown in the previous examples. However, they are especially valuable for contextualizing sub-Neptunes located near the **opening of the radius valley**, a region that is less well captured by straight-line approximations. For this format, the background is drawn from the **Kepler DR25 catalogue** ([Thompson et al. 2018](https://ui.adsabs.harvard.edu/abs/2018ApJS..235...38T/abstract)), to which the **Inverse Detection Efficiency Method (IDEM)** was applied to derive the corresponding bias-corrected boundaries.
 
 
 <img width="5526" height="2530" alt="examples4 5" src="https://github.com/user-attachments/assets/7ce06a21-deb6-43f0-8bef-59c5a334703c" />
