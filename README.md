@@ -24,7 +24,7 @@ In the left panel ([example#1](aux/config_examples.ipynb)), we contextualize sev
 
 <img width="5526" height="2530" alt="examples1 2" src="https://github.com/user-attachments/assets/5da65e99-71a6-495d-b9d2-2d56fe9a5874" />
 
-## 2. The super-Neptune / sub-Saturn density trend
+## 2. The Neptunian density trend
 
 In this two-panel plot ([example#3](aux/config_examples.ipynb)), we contextualize several planets along the **density trend** for super-Neptunes and sub-Saturns presented in [Castro-González et al. (2024b)](https://ui.adsabs.harvard.edu/abs/2024A%26A...691A.233C/abstract). Planets in the savanna show low densities, typically below 1 g/cm³, whereas planets in the ridge and the desert can reach densities of ~2 g/cm³. The density transition aligns closely with the planet-occurrence break between the ridge and the savanna (at P<sub>orb</sub> ~ 6 days), suggesting that **desert and ridge planets may share common formation and/or evolutionary pathways distinct from those of Neptunes in the savanna** (see the papers for further discussion).
 
@@ -38,7 +38,7 @@ This plotting option also uses an MCMC approach to assess the significance of th
 
 We obtain a KS p-value of 0.0065 for the (DESERT + RIDGE) vs. SAVANNA comparison, which is slightly better than the original value reported by [Castro-González et al. 2024b](https://ui.adsabs.harvard.edu/abs/2024A%26A...691A.233C/abstract) (KS p-value = 0.0092). This result confirms that **the density distributions of the desert+ridge and savanna populations are statistically different**. Remarkably, **there is no evidence of a density difference between the desert and ridge planets** (p-value = 0.27), which is somewhat expected given the very small desert sample (N_desert = 6). Still, the Cliff’s delta remains high (0.38), which suggests a potentially meaningful effect that current sample sizes are not sufficient to confirm. In this line, we note that relatively low-density super-Neptunes exist in the ridge but not in the desert, an intriguing feature consistent with the proposed **density brink** ([Bourrier et al. 2025](https://ui.adsabs.harvard.edu/abs/2025A%26A...701A.190B/abstract)).
 
-## 3. The Neptunian desert
+## 3. The exact desert boundaries
 
 Finally, we can generate the **exact KDE-derived desert boundaries** from [Castro-González et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...689A.250C/abstract). These boundaries are broadly consistent with the approximate ones shown in the previous examples. However, they are especially valuable for contextualizing sub-Neptunes located near the **opening of the radius valley**, a region that is less well captured by straight-line approximations. For this format, the background is drawn from the **Kepler DR25 catalogue** ([Thompson et al. 2018](https://ui.adsabs.harvard.edu/abs/2018ApJS..235...38T/abstract)), to which the **Inverse Detection Efficiency Method (IDEM)** was applied to derive the corresponding bias-corrected boundaries.
 
