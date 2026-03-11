@@ -8,7 +8,7 @@
        style="margin-right: 50px; margin-bottom: 10px;">
   This code produces <strong>period-radius diagrams</strong> with the population-based <strong>boundaries</strong> of the <strong>exo-Neptunian landscape</strong> as derived in 
   <a href="https://ui.adsabs.harvard.edu/abs/2024A%26A...689A.250C/abstract">
-  Castro-González et al. (2024)</a>. It also generates plots showing the <strong>density–period trend</strong> for 
+  Castro-González et al. (2024)</a>. It also generates plots showing the <strong>density-period trend</strong> for 
   super-Neptunes/sub-Saturns presented in the follow-up study by
   <a href="https://ui.adsabs.harvard.edu/abs/2024A%26A...691A.233C/abstract">
   Castro-González et al. (2024b)</a>. 
