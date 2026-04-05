@@ -42,7 +42,7 @@ We obtain a KS p-value of 0.0065 for the (DESERT + RIDGE) vs. SAVANNA comparison
 
 Finally, we can generate the **exact KDE-derived desert boundaries** from [Castro-González et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...689A.250C/abstract). These boundaries are broadly consistent with the approximate ones shown in the previous examples. However, they are especially valuable for contextualizing sub-Neptunes located near the **opening of the radius valley**, a region that is less well captured by straight-line approximations. For this format, the background is drawn from the **Kepler DR25 catalogue** ([Thompson et al. 2018](https://ui.adsabs.harvard.edu/abs/2018ApJS..235...38T/abstract)), to which the **Inverse Detection Efficiency Method (IDEM)** was applied to derive the corresponding bias-corrected boundaries.
 
-<img width="5390" height="2489" alt="examples4 5" src="https://github.com/user-attachments/assets/18d5815e-54cc-4f51-9277-21534fa2ddee" />
+<img width="5142" height="2398" alt="examples4 5" src="https://github.com/user-attachments/assets/ba418492-9ec4-42b2-87ca-aa05f1b8aaf0" />
 
 
 In the left panel ([example #4](aux/config_examples.ipynb)), we illustrate how to contextualize a desert planet. In the right panel ([example #5](aux/config_examples.ipynb)), we show how to contextualize multiple desert planets with legend labels. We also demonstrate how to draw the classical desert boundaries of [Mazeh et al. (2016)](https://ui.adsabs.harvard.edu/abs/2016A%26A...589A..75M/abstract) using the option `show_mazeh_boundaries = True`, which can be activated for any of the *nep-des* plot types.
