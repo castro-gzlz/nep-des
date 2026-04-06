@@ -29,11 +29,10 @@ In the left panel ([example#1](aux/config_examples.ipynb)), we contextualize sev
 
 In this two-panel plot ([example#3](aux/config_examples.ipynb)), we contextualize several planets along the **density trend** for super-Neptunes and sub-Saturns presented in [Castro-González et al. (2024b)](https://ui.adsabs.harvard.edu/abs/2024A%26A...691A.233C/abstract). Planets in the savanna show low densities, typically below 1 g/cm³, whereas planets in the ridge and the desert can reach densities of ~2 g/cm³. The density transition aligns closely with the planet-occurrence break between the ridge and the savanna (at P<sub>orb</sub> ~ 6 days), suggesting that **desert and ridge planets may share common formation and/or evolutionary pathways distinct from those of Neptunes in the savanna** (see the papers for further discussion).
 
-![Example 3](output/nep_dens_example3.png)
+<img width="5516" height="2489" alt="nep_dens_example3" src="https://github.com/user-attachments/assets/5b4a7a73-9463-45e1-9304-61d9aad325ef" />
 
 This plotting option also uses an MCMC approach to assess the significance of the trend. At present, without including the (duplicated) user-plotted planets (`include_user_planets_in_density_stats = False`):
 
-<img width="5516" height="2489" alt="nep_dens_example3" src="https://github.com/user-attachments/assets/5b4a7a73-9463-45e1-9304-61d9aad325ef" />
 
 
 We obtain a KS p-value of 0.0065 for the (DESERT + RIDGE) vs. SAVANNA comparison, which is slightly better than the original value reported by [Castro-González et al. 2024b](https://ui.adsabs.harvard.edu/abs/2024A%26A...691A.233C/abstract) (KS p-value = 0.0092). This result confirms that **the density distributions of the desert+ridge and savanna populations are statistically different**. Remarkably, **there is no evidence of a density difference between the desert and ridge planets** (p-value = 0.27), which is somewhat expected given the very small desert sample (N_desert = 6). Still, the Cliff’s delta remains high (0.38), which suggests a potentially meaningful effect that current sample sizes are not sufficient to confirm. In this line, we note that relatively low-density super-Neptunes exist in the ridge but not in the desert, an intriguing feature consistent with the proposed **density brink** ([Bourrier et al. 2025](https://ui.adsabs.harvard.edu/abs/2025A%26A...701A.190B/abstract)).
