@@ -33,7 +33,7 @@ In this **two-panel plot** ([example#3](aux/config_examples.ipynb)), we contextu
 
 This plotting option can also compute statistics to reassess the significance of the density trend, including median densities in each region and p-values from statistical tests such as the Mann–Whitney U and Kolmogorov–Smirnov tests. These calculations are enabled with `compute_density_statistics = True`. User-defined planets can be included or excluded from the analysis with `include_user_planets_in_density_stats = True/False`. A typical example of the output produced by this option is available [here](output/stats_example.png).
 
-## 3. The exact desert boundaries
+## 3. The exact boundaries
 
 Finally, we can generate the **exact KDE-derived desert boundaries** from [Castro-González et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...689A.250C/abstract). These boundaries are broadly consistent with the approximate ones shown in the previous examples. However, they are especially valuable for contextualizing sub-Neptunes located near the **opening of the radius valley**, a region that is less well captured by straight-line approximations. For this format, the background is drawn from the **Kepler DR25 catalogue** ([Thompson et al. 2018](https://ui.adsabs.harvard.edu/abs/2018ApJS..235...38T/abstract)), to which the **Inverse Detection Efficiency Method (IDEM)** was applied to derive the corresponding bias-corrected boundaries.
 
