@@ -31,12 +31,7 @@ In this two-panel plot ([example#3](aux/config_examples.ipynb)), we contextualiz
 
 <img width="5516" height="2489" alt="nep_dens_example3" src="https://github.com/user-attachments/assets/5b4a7a73-9463-45e1-9304-61d9aad325ef" />
 
-This plotting option also uses an MCMC approach to assess the significance of the trend. At present, without including the (duplicated) user-plotted planets (`include_user_planets_in_density_stats = False`):
-
-<img width="1522" height="330" alt="Captura de pantalla 2026-04-06 a las 21 18 12" src="https://github.com/user-attachments/assets/e0199adc-5493-4046-8485-0b3b03328cd0" />
-
-
-We obtain a KS p-value of 0.0065 for the (DESERT + RIDGE) vs. SAVANNA comparison, which is slightly better than the original value reported by [Castro-González et al. 2024b](https://ui.adsabs.harvard.edu/abs/2024A%26A...691A.233C/abstract) (KS p-value = 0.0092). This result confirms that **the density distributions of the desert+ridge and savanna populations are statistically different**. Remarkably, **there is no evidence of a density difference between the desert and ridge planets** (p-value = 0.27), which is somewhat expected given the very small desert sample (N_desert = 6). Still, the Cliff’s delta remains high (0.38), which suggests a potentially meaningful effect that current sample sizes are not sufficient to confirm. In this line, we note that relatively low-density super-Neptunes exist in the ridge but not in the desert, an intriguing feature consistent with the proposed **density brink** ([Bourrier et al. 2025](https://ui.adsabs.harvard.edu/abs/2025A%26A...701A.190B/abstract)).
+This plotting option can also compute statistics to reassess the significance of the density trend, including median densities in each region and p-values from statistical tests such as the Mann–Whitney U and Kolmogorov–Smirnov tests. These calculations are enabled with `compute_density_statistics = True`. User-defined planets can be included or excluded from the analysis with `include_user_planets_in_density_stats = True/False`. A typical example of the output produced by this option is available [here](output/stats_example.png).
 
 ## 3. The exact desert boundaries
 
