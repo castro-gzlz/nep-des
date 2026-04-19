@@ -29,7 +29,7 @@ In the left panel ([example#1](aux/config_examples.ipynb)), we contextualize sev
 
 We can also generate the **exact KDE-derived desert boundaries**. These boundaries are broadly consistent with the approximate ones shown in the previous example, but are more appropriate to contrast with theoretical models.
 
-<img width="5142" alt="examples3 4" src="https://github.com/user-attachments/assets/fadc271a-7491-468f-9417-e7bc3ed99f93" />
+<img width="5142" height="2398" alt="image(6)" src="https://github.com/user-attachments/assets/fdfde886-5716-441d-b74d-d97ada119606" />
 
 
 In the left panel ([example#3](aux/config_examples.ipynb)), we contextualize a desert planet. In the right panel ([example#4](aux/config_examples.ipynb)), we contextualize two ridge planets with legend labels. We also illustrate how to draw tidal boundaries for planets that underwent high-eccentricity tidal migration (HEM). **These boundaries closely reproduce the empirical desert boundary as well as the extension of the ridge** when adopting a single tidal-encounter parameter that sets the overall period offset, **suggesting a common HEM origin for the ridge and the desert** (see Castro-González et al. 2026).
