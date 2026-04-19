@@ -22,7 +22,7 @@
 
 In the left panel ([example#1](aux/config_examples.ipynb)), we contextualize several unusually short-period planets located within the core of the Neptunian desert. In the right panel ([example#2](aux/config_examples.ipynb)), we place a sub-Saturn within the broader exo-Neptunian landscape (desert, ridge, and savanna) and highlight it with a text box.
 
-<img width="2763" height="632.5" alt="examples1 2" src="https://github.com/user-attachments/assets/dceeab7b-2c52-4a1f-b242-b0f6384c1590" />
+<img width="5390" height="2489" alt="examples1 2" src="https://github.com/user-attachments/assets/6699d958-c044-42e4-80c5-5dce00abee5f" />
 
 
 ## 2. The Neptunian density trend
