@@ -69,7 +69,7 @@ archivePrefix = {arXiv},
 }
 ```
 
-If you also use the super-Neptune / sub-Saturn density trend, please give credit to [this work](https://ui.adsabs.harvard.edu/abs/2024A%26A...691A.233C/abstract):
+If you use the super-Neptune / sub-Saturn density trend, please give credit to [this work](https://ui.adsabs.harvard.edu/abs/2024A%26A...691A.233C/abstract):
 
 ```bibtex
 @ARTICLE{2024A&A...691A.233C,
@@ -91,8 +91,31 @@ archivePrefix = {arXiv},
 }
 ```
 
+If you use the tidal boundary, the high-eccentricity tidal migration interpretation, or the density bimodality across the ridge and savanna, please give credit to [this work](https://ui.adsabs.harvard.edu/abs/2026A%26A...709L..17C/abstract):
+
+```bibtex
+@ARTICLE{2026A&A...709L..17C,
+       author = {{Castro-Gonz{\'a}lez}, A. and {Bourrier}, V. and {Ehrenreich}, D. and {Armstrong}, D.~J. and {Correia}, A.~C.~M. and {Lendl}, M.},
+        title = "{The Neptunian ridge as a natural outcome of high-eccentricity tidal migration}",
+      journal = {\aap},
+     keywords = {methods: statistical, celestial mechanics, planets and satellites: dynamical evolution and stability, Earth and Planetary Astrophysics},
+         year = 2026,
+        month = may,
+       volume = {709},
+          eid = {L17},
+        pages = {L17},
+          doi = {10.1051/0004-6361/202659558},
+archivePrefix = {arXiv},
+       eprint = {2604.16300},
+ primaryClass = {astro-ph.EP},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2026A&A...709L..17C},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+```
+
 If you make use of `nep-des` in your research, please include the following sentence in the acknowledgements:
 
 > This research made use of \texttt{nep-des} (available in \url{https://github.com/castro-gzlz/nep-des})
 
 Please also give credit to the catalogue(s) used in each plot: NASA Exoplanet Archive ([Christiansen et al. 2025](https://ui.adsabs.harvard.edu/abs/2025PSJ.....6..186C/abstract)) for plots 1 and 3 when using `catalog = "NEA"`; Exoplanet.eu ([Schneider et al. 2011](https://ui.adsabs.harvard.edu/abs/2011A%26A...532A..79S/abstract)) for plots 1 and 3 when using `catalog = "Exoplanet.eu"`; and Kepler DR25 ([Thompson et al. 2018](https://ui.adsabs.harvard.edu/abs/2018ApJS..235...38T/abstract)) for plot 2.
+
