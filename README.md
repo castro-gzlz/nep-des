@@ -50,7 +50,7 @@ If you use our population-based mapping of the exo-Neptunian landscape, please g
 
 ```bibtex
 @ARTICLE{2024A&A...689A.250C,
-       author = {{Castro-Gonz{\'a}lez}, A. and {Bourrier}, V. and {Lillo-Box}, J. and {Delisle}, J. -B. and {Armstrong}, D.~J. and {Barrado}, D. and {Correia}, A.~C.~M.},
+       author = {{Castro-Gonz{\'a}lez}, A. and {Bourrier}, V. and {Lillo-Box}, J. and {Delisle}, J.-B. and {Armstrong}, D.~J. and {Barrado}, D. and {Correia}, A.~C.~M.},
         title = "{Mapping the exo-Neptunian landscape: A ridge between the desert and savanna}",
       journal = {\aap},
      keywords = {planets and satellites: atmospheres, planets and satellites: dynamical evolution and stability, planets and satellites: formation, planets and satellites: gaseous planets, planets and satellites: physical evolution, Astrophysics - Earth and Planetary Astrophysics},
@@ -68,7 +68,7 @@ archivePrefix = {arXiv},
 }
 ```
 
-If you use the super-Neptune / sub-Saturn density trend, please give credit to [this work](https://ui.adsabs.harvard.edu/abs/2024A%26A...691A.233C/abstract):
+If you also use the super-Neptune / sub-Saturn density trend, please also give credit to [this work](https://ui.adsabs.harvard.edu/abs/2024A%26A...691A.233C/abstract):
 
 ```bibtex
 @ARTICLE{2024A&A...691A.233C,
@@ -90,7 +90,7 @@ archivePrefix = {arXiv},
 }
 ```
 
-If you use the tidal boundary, the high-eccentricity tidal migration interpretation, or the density bimodality across the ridge and savanna, please give credit to [this work](https://ui.adsabs.harvard.edu/abs/2026A%26A...709L..17C/abstract):
+If you also use the tidal boundary, the high-eccentricity tidal migration interpretation, or the density bimodality across the ridge and savanna, please also give credit to [this work](https://ui.adsabs.harvard.edu/abs/2026A%26A...709L..17C/abstract):
 
 ```bibtex
 @ARTICLE{2026A&A...709L..17C,
