@@ -11,7 +11,7 @@
   Castro-González et al. (2024)</a>. It also generates plots showing the <strong>density trends</strong> for 
   super-Neptunes and sub-Saturns presented in
   <a href="https://ui.adsabs.harvard.edu/abs/2024A%26A...691A.233C/abstract">
-  Castro-González et al. (2024b)</a> and <a href="https://https://ui.adsabs.harvard.edu/abs/2026A%26A...709L..17C/abstract">
+  Castro-González et al. (2024b)</a> and <a href="https://ui.adsabs.harvard.edu/abs/2026A%26A...709L..17C/abstract">
   Castro-González et al. (2026)</a>. 
   
   **No installation is required.** Simply **download** this repository and run [`nep_des.ipynb`](https://github.com/castro-gzlz/nep-des/blob/main/nep_des.ipynb). You can prepare the [User configuration](nep_des.ipynb#user-configuration) cell, run the (collapsed) cells in the main code block, and execute any of the **plotting cells**. In the following, we show **examples** covering the **three types of plots** that can be generated. The configuration cells for each example can be found [here](aux/config_examples.ipynb). For issues/suggestions, please feel free to [contact me](mailto:amadeo.castro-gonzalez@unige.ch).
