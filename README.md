@@ -43,8 +43,7 @@ In this **two-panel plot** ([example#5](aux/config_examples.ipynb)), we contextu
 <img width="5540" alt="nep_dens_example5" src="https://github.com/user-attachments/assets/d9c7e081-6b18-4186-bf22-813d50391cdc" />
 
 This plot can also incorporate the tidal boundary (i.e. survival limit) studied in <a href="https://ui.adsabs.harvard.edu/abs/2026A%26A...709L..17C/abstract">
-  Castro-González et al. (2026)</a>, which **closely follows the observed density distribution, simultaneously explaining both the scarcity of Neptunes in the desert and their accumulation along the ridge**. In this interpretation, the ridge emerges because there are not enough low-density Neptunes to be deposited significantly beyond it after HEM. In addition, we include the density histogram across the ridge and savanna regions (for convenience, the transition is set here at 8 days), **revealing an intriguing concentration of ridge Neptunes at densities of ~1.6–1.7 g cm<sup>−3</sup>** (<a href="https://ui.adsabs.harvard.edu/abs/2026A%26A...709L..17C/abstract">
-  Castro-González et al. 2026</a>).
+  Castro-González et al. (2026)</a>, which **closely follows the observed density distribution, simultaneously explaining both the scarcity of Neptunes in the desert and their accumulation along the ridge**. In this interpretation, the ridge emerges because there are not enough low-density Neptunes to be deposited significantly beyond it after HEM. In addition, we include the density histogram across the ridge and savanna regions (for convenience, the transition is set here at 8 days), **revealing an intriguing concentration of ridge Neptunes at densities of ~1.6–1.7 g cm<sup>−3</sup>** (<a href="https://ui.adsabs.harvard.edu/abs/2026A%26A...709L..17C/abstract">Castro-González et al. 2026</a>).
 
 ## Credits
 
