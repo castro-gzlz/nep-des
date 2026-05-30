@@ -28,7 +28,7 @@ In the left panel ([example#1](aux/config_examples.ipynb)), we contextualize sev
 
 ## 2. The exact desert boundaries
 
-We can also generate the **exact KDE-derived desert boundaries** derived in  <a href="https://ui.adsabs.harvard.edu/abs/2024A%26A...689A.250C/abstract">
+We can also generate the **exact KDE-based desert boundaries** derived in  <a href="https://ui.adsabs.harvard.edu/abs/2024A%26A...689A.250C/abstract">
   Castro-González et al. (2024)</a>. These boundaries are broadly consistent with the approximate ones in the previous example, but are more appropriate to contrast with theoretical models.
 
 <img width="5142" alt="examples3 4" src="https://github.com/user-attachments/assets/16bbc860-2f90-4db5-98e1-19d26f386896" />
